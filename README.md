@@ -17,7 +17,7 @@
 
 <br/>
 
-### Tecnologies FrontEnd 
+### Tecnologies Front-End 
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +27,7 @@
 
 <br/>
 
-### Tecnologies BackEnd 
+### Tecnologies Back-End 
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
