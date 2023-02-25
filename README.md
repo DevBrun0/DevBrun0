@@ -17,6 +17,9 @@
 
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrun0&hide_progress=false&theme=dracula)
+
+<br/>
 ### Tecnologies Front-End 
 
 <div style="display: inline_block"><br/>
