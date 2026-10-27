@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Bruno+%F0%9F%91%8B;Software+Engineer+%26+CTO;Building+SaaS+for+credit+intelligence;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Bruno+%F0%9F%91%8B;Software+Engineer+%26+CTO;Building+scalable+Saas;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Cloud" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/brun0-henriqu3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
